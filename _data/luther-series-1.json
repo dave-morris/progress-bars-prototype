@@ -1,0 +1,689 @@
+[{
+    "id": "b00sbjbv",
+    "state": "watched",
+    "live": false,
+    "type": "episode",
+    "title": "Luther",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p54sm.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00vk2lp",
+    "guidance": true,
+    "slice_id": "b00s8jk0",
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "small": "Luther, back from suspension, must solve a seemingly perfect double murder.",
+      "medium": "Crime drama series. Luther, back from suspension, must solve a seemingly perfect double murder and work out how, and by whom, it was committed.",
+      "editorial": "Luther is trying to forget his old life – but can’t help being drawn into dark cases.",
+      "programme_small": "A dark psychological crime drama starring Idris Elba as DCI John Luther."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b00sbjbd",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3404,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3145,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3145,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "58 mins",
+        "value": "PT58M14.040S"
+      },
+      "guidance": {
+        "id": "WD",
+        "text": {
+          "large": "Contains some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2019-04-18T08:00:00Z",
+        "start": "2018-10-19T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 3453,
+      "first_broadcast": "9pm 4 May 2010",
+      "first_broadcast_date_time": "2010-05-04T20:00:00.000Z"
+    }],
+    "parent_id": "b00s8jk0",
+    "tleo_type": "brand",
+    "categories": [
+      "archive",
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "4 May 2010",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "programme_type": "narrative",
+    "audio_described": false,
+    "editorial_title": "Luther: Series 1-5",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2010-05-04T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. The detective who can’t let go of his past",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 2
+  },
+  {
+    "id": "b00sbrk7",
+    "state": "watched",
+    "live": false,
+    "type": "episode",
+    "title": "Luther",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p5jkl.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00vk2lp",
+    "guidance": true,
+    "slice_id": "b00s8jk0",
+    "subtitle": "Series 1: Episode 2",
+    "synopses": {
+      "small": "Luther must outmanoeuvre a trained sniper on a mission to gun down police officers.",
+      "medium": "Crime drama series. Luther must outmanoeuvre a trained sniper on a mission to kill police officers. But as the body count rises, he has to uncover the killer's true motives."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06nzkqx",
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3317,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3066,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3066,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT56M47.040S"
+      },
+      "guidance": {
+        "id": "V1",
+        "text": {
+          "large": "Contains some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-04-18T08:00:00Z",
+        "start": "2018-10-19T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 3392,
+      "first_broadcast": "11 May 2010",
+      "first_broadcast_date_time": "2010-05-11T00:00:00.000Z"
+    }],
+    "parent_id": "b00s8jk0",
+    "tleo_type": "brand",
+    "categories": [
+      "archive",
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "11 May 2010",
+    "related_links": [],
+    "original_title": "Episode 2",
+    "programme_type": "narrative",
+    "audio_described": false,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2010-05-11T00:00:00.000Z",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 3
+  },
+  {
+    "id": "b00shq3m",
+    "state": "watched",
+    "live": false,
+    "type": "episode",
+    "title": "Luther",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p5jld.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00vk2lp",
+    "guidance": true,
+    "slice_id": "b00s8jk0",
+    "subtitle": "Series 1: Episode 3",
+    "synopses": {
+      "small": "John Luther must catch a satanic killer accused of kidnap and murder.",
+      "medium": "John Luther must catch a Satanic occult killer accused of kidnap and murder. However, with a young mother's life at stake, Luther must use all his skills to build an airtight case."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b00shpw2",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3424,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3163,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3163,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT58M34.040S"
+      },
+      "guidance": {
+        "id": "D3V1",
+        "text": {
+          "large": "Contains some violent scenes and scenes which some viewers may find disturbing.",
+          "small": "Has guidance",
+          "medium": "Contains some violence and disturbing scenes."
+        }
+      },
+      "availability": {
+        "end": "2019-04-18T08:00:00Z",
+        "start": "2018-10-19T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 3501,
+      "first_broadcast": "9pm 18 May 2010",
+      "first_broadcast_date_time": "2010-05-18T20:00:00.000Z"
+    }],
+    "parent_id": "b00s8jk0",
+    "tleo_type": "brand",
+    "categories": [
+      "archive",
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "18 May 2010",
+    "related_links": [],
+    "original_title": "Episode 3",
+    "programme_type": "narrative",
+    "audio_described": false,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2010-05-18T00:00:00.000Z",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 4
+  },
+  {
+    "id": "b01r0hcb",
+    "state": "watched",
+    "live": false,
+    "type": "episode",
+    "title": "Luther",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p5jp2.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00vk2lp",
+    "guidance": true,
+    "slice_id": "b00s8jk0",
+    "subtitle": "Series 1: Episode 4",
+    "synopses": {
+      "large": "When a serial killer goes on the rampage, Luther must put his personal life aside and delve inside the murderer's mind to discover what is driving him to kill so many girls, and why.",
+      "small": "When a serial killer goes on the rampage, Luther must delve inside the murderer's mind.",
+      "medium": "Crime drama series. When three girls are found murdered, Luther is forced to put personal matters aside and delve into the mind of the killer."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06ny262",
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3451,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3187,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3187,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT59M1.040S"
+      },
+      "guidance": {
+        "id": "L1V1",
+        "text": {
+          "large": "Contains some strong language and some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language and some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-04-18T08:00:00Z",
+        "start": "2018-10-19T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 3536,
+      "first_broadcast": "25 May 2010",
+      "first_broadcast_date_time": "2010-05-25T00:00:00.000Z"
+    }],
+    "parent_id": "b00s8jk0",
+    "tleo_type": "brand",
+    "categories": [
+      "archive",
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "25 May 2010",
+    "related_links": [],
+    "original_title": "Episode 4",
+    "programme_type": "narrative",
+    "audio_described": false,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2010-05-25T00:00:00.000Z",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 5
+  },{
+    "id": "b00snb8p",
+    "state": "watched",
+    "live": false,
+    "type": "episode",
+    "title": "Luther",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p5jsw.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00vk2lp",
+    "guidance": true,
+    "slice_id": "b00s8jk0",
+    "subtitle": "Series 1: Episode 5",
+    "synopses": {
+      "small": "Things become personal for Luther when a wealthy couple are taken hostage.",
+      "medium": "When a wealthy couple are taken hostage, Luther must try to avert a disastrous chain of events. However, what he doesn't know is that it will soon become very personal."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b00snb7l",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3448,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3184,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3184,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT58M58.040S"
+      },
+      "guidance": {
+        "id": "L1V1",
+        "text": {
+          "large": "Contains some strong language and some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language and some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-04-18T08:00:00Z",
+        "start": "2018-10-19T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 3538,
+      "first_broadcast": "9pm 1 Jun 2010",
+      "first_broadcast_date_time": "2010-06-01T20:00:00.000Z"
+    }],
+    "parent_id": "b00s8jk0",
+    "tleo_type": "brand",
+    "categories": [
+      "archive",
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "1 Jun 2010",
+    "related_links": [],
+    "original_title": "Episode 5",
+    "programme_type": "narrative",
+    "audio_described": false,
+    "parent_position": 5,
+    "requires_sign_in": true,
+    "release_date_time": "2010-06-01T00:00:00.000Z",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 6
+  },
+  {
+    "id": "b00sqj2l",
+    "state": "watched",
+    "live": false,
+    "type": "episode",
+    "title": "Luther",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p5jtr.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b00vk2lp",
+    "guidance": true,
+    "slice_id": "b00s8jk0",
+    "subtitle": "Series 1: Episode 6",
+    "synopses": {
+      "small": "Luther, accused of murder, goes on the run with Alice to try and prove his innocence.",
+      "medium": "Crime drama series. Luther, suspected of murder, goes on the run and tries to prove his innocence. With Alice's assistance he sets outs to exact revenge on the real killer."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b00sqj1y",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3384,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3127,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3127,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "58 mins",
+        "value": "PT57M54.040S"
+      },
+      "guidance": {
+        "id": "V1",
+        "text": {
+          "large": "Contains some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-04-18T08:00:00Z",
+        "start": "2018-10-19T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 3467,
+      "first_broadcast": "9pm 8 Jun 2010",
+      "first_broadcast_date_time": "2010-06-08T20:00:00.000Z"
+    }],
+    "parent_id": "b00s8jk0",
+    "tleo_type": "brand",
+    "categories": [
+      "archive",
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "8 Jun 2010",
+    "related_links": [],
+    "original_title": "Episode 6",
+    "programme_type": "narrative",
+    "audio_described": false,
+    "parent_position": 6,
+    "requires_sign_in": true,
+    "release_date_time": "2010-06-08T00:00:00.000Z",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 7
+  }
+]

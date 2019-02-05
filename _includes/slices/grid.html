@@ -1,0 +1,23 @@
+<div class="grid" id="{{include.id}}" data-id="{{include.data}}">
+  <div class="grid-content">
+    {% for item in site.data[include.data] %}
+
+      {% if item.state == "watched" %}
+        {% include content-items/content-item-270px-watched.html %}
+      {% endif %}
+
+      {% if item.state == "myNext" %}
+        {% include content-items/content-item-270px-my-next.html %}
+      {% endif %}
+
+      {% if item.state == "resume" %}
+        {% include content-items/content-item-270px-resume.html %}
+      {% endif %}
+
+      {% if item.state == "default" %}
+        {% include content-items/content-item-270px.html %}
+      {% endif %}
+
+    {% endfor %}
+  </div>
+</div>

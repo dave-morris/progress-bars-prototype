@@ -1,0 +1,460 @@
+[{
+  "id": "p01b2b5c",
+  "state": "watched",
+  "live": false,
+  "type": "episode",
+  "title": "Luther",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p5559.jpg"
+  },
+  "labels": {
+    "category": "Crime Drama"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "b00vk2lp",
+  "guidance": true,
+  "slice_id": "p01b2b2g",
+  "subtitle": "Series 3: Episode 1",
+  "synopses": {
+    "large": "Luther returns to investigate a twisted fetishist who is murdering women in a horrific echo of an unsolved case from the 1980s. The team must put all their resources into finding the copycat killer, whose murderous spree has only just begun. \n\nLuther's focus is divided when a reluctant Schenk assigns him to another case - a malicious internet tormentor has been found murdered in his home, with all his possessions stripped from the flat. With so many people wanting the tormentor dead, Luther needs to apply brute force to a key witness for more information, unaware that every move he makes is being watched...\n\nPulled in every direction, Luther's patience is wearing thin and a car crash as he rushes to the second crime scene is the last thing he needs - or so he thinks, until he sets eyes on the beautiful Mary Day. Could this chance encounter mean that Luther might just be on the verge of finding love?\n\nBut nothing ever comes easily for John Luther and other forces are at work against him, in the shape of Erin Gray, now a DCI in anti-corruption, and her boss, DSU Stark. Stark and Gray will stop at nothing to punish those who work outside the perimeters of the law and their furtive plan involves the man who is Luther's colleague and best friend - DSU Justin Ripley.",
+    "small": "Luther investigates two horrific cases, unaware his every step is under scrutiny.",
+    "medium": "Crime drama series. A chance encounter means Luther might be on the verge of finding love. But nothing comes easily - not when a fetish killer is on the hunt.",
+    "editorial": "Luther is on the verge of love – but nothing comes easily when a killer is on the hunt.",
+    "programme_small": "Idris Elba stars as DCI John Luther, waging his own passionate and ruthless war on crime."
+  },
+  "versions": [{
+    "hd": true,
+    "id": "b036pmb7",
+    "uhd": false,
+    "kind": "original",
+    "type": "version",
+    "events": [{
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+      },
+      {
+        "name": "ended",
+        "offset": 3364,
+        "system": "uas"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3109,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "dax"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3109,
+        "system": "dax"
+      }
+    ],
+    "download": true,
+    "duration": {
+      "text": "58 mins",
+      "value": "PT57M34.040S"
+    },
+    "guidance": {
+      "id": "D3V1",
+      "text": {
+        "large": "Contains some violent scenes and scenes which some viewers may find disturbing.",
+        "small": "Has guidance",
+        "medium": "Contains some violence and disturbing scenes."
+      }
+    },
+    "availability": {
+      "end": "2019-04-18T08:00:00Z",
+      "start": "2018-10-19T08:00:00Z",
+      "remaining": {
+        "text": "Available for 2 months"
+      }
+    },
+    "credits_start": 3450,
+    "first_broadcast": "9pm 2 Jul 2013",
+    "first_broadcast_date_time": "2013-07-02T20:00:00.000Z"
+  }],
+  "parent_id": "p01b2b2g",
+  "tleo_type": "brand",
+  "categories": [
+    "drama-and-soaps",
+    "drama-crime"
+  ],
+  "has_credits": true,
+  "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+    },
+    "ident_id": "p06g87jc",
+    "attribution": "bbc_one"
+  },
+  "release_date": "2 Jul 2013",
+  "related_links": [],
+  "original_title": "Episode 1",
+  "programme_type": "narrative",
+  "audio_described": false,
+  "editorial_title": "Luther: Series 3",
+  "parent_position": 1,
+  "requires_sign_in": true,
+  "release_date_time": "2013-07-02T00:00:00.000Z",
+  "editorial_subtitle": "Box Set. Luther’s on the case – and being watched",
+  "lexical_sort_letter": "L",
+  "requires_tv_licence": true,
+  "numeric_tleo_position": 14
+},
+{
+  "id": "b036yk7v",
+  "state": "watched",
+  "live": false,
+  "type": "episode",
+  "title": "Luther",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p6426.jpg"
+  },
+  "labels": {
+    "category": "Crime Drama"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "b00vk2lp",
+  "guidance": true,
+  "slice_id": "p01b2b2g",
+  "subtitle": "Series 3: Episode 2",
+  "synopses": {
+    "large": "Luther's date with Mary, and the promise of romance, is interrupted by the news of another murder. The killer has struck again - the number of victims is escalating fast.\n\nFaced with the repercussions of their public disagreement, Luther orders Ripley to investigate the Jared Cass murder on his own. Meanwhile, he throws himself into a mountain of cold case files, determined to connect the past and present in order to predict the fetishist's next move.\n\nIn a care home, a cancer-ridden patient, William Carney, eagerly awaits a visitor. It is the killer, who has a present for him - pictures of his spoils and promises of more to come.\n\nRipley has to choose whether to turn a blind eye to Luther's unorthodox policing or go on record with his grievances. In turn Gray finds the line between right and wrong is becoming increasingly blurred as Stark's obsession with Luther deepens.\n\nThe discovery of an accomplice forces Luther to engage in a nightmarish duel. Can he win this battle of wits in time to prevent the next horror? Elsewhere in London, a trio of girls looks forward to a quiet night in, unaware the killer lurks in the shadows of their home.",
+    "small": "Luther trawls through cold case files, determined to predict the killer's next move.",
+    "medium": "Crime drama series. The killer has struck again. Luther trawls through cold case files, determined to connect the past and present in order to predict the fetishist's next move."
+  },
+  "versions": [{
+    "hd": true,
+    "id": "b036yk79",
+    "uhd": false,
+    "kind": "original",
+    "type": "version",
+    "events": [{
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+      },
+      {
+        "name": "ended",
+        "offset": 3450,
+        "system": "uas"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3186,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "dax"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3186,
+        "system": "dax"
+      }
+    ],
+    "download": true,
+    "duration": {
+      "text": "59 mins",
+      "value": "PT59M0.040S"
+    },
+    "guidance": {
+      "id": "D3",
+      "text": {
+        "large": "Contains scenes which some viewers may find disturbing.",
+        "small": "Has guidance",
+        "medium": "Contains disturbing scenes."
+      }
+    },
+    "availability": {
+      "end": "2019-04-18T08:00:00Z",
+      "start": "2018-10-19T08:00:00Z",
+      "remaining": {
+        "text": "Available for 2 months"
+      }
+    },
+    "credits_start": 3536,
+    "first_broadcast": "9pm 9 Jul 2013",
+    "first_broadcast_date_time": "2013-07-09T20:00:00.000Z"
+  }],
+  "parent_id": "p01b2b2g",
+  "tleo_type": "brand",
+  "categories": [
+    "drama-and-soaps",
+    "drama-crime"
+  ],
+  "has_credits": true,
+  "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+    },
+    "ident_id": "p06g87jc",
+    "attribution": "bbc_one"
+  },
+  "release_date": "9 Jul 2013",
+  "related_links": [],
+  "original_title": "Episode 2",
+  "programme_type": "narrative",
+  "audio_described": false,
+  "parent_position": 2,
+  "requires_sign_in": true,
+  "release_date_time": "2013-07-09T00:00:00.000Z",
+  "lexical_sort_letter": "L",
+  "requires_tv_licence": true,
+  "numeric_tleo_position": 15
+},
+{
+  "id": "b0377wtx",
+  "state": "watched",
+  "live": false,
+  "type": "episode",
+  "title": "Luther",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p64d6.jpg"
+  },
+  "labels": {
+    "category": "Crime Drama"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "b00vk2lp",
+  "guidance": true,
+  "slice_id": "p01b2b2g",
+  "subtitle": "Series 3: Episode 3",
+  "synopses": {
+    "large": "Two young hoodies are shot at close range in what looks like a gangland crime. But when another man dies shortly after, Luther realises that what the three dead men have in common is a criminal record. It looks like a new killer is on the loose - a vigilante with a personal vendetta against all past offenders. \n\nWhen the killer posts a video of himself online, calling for changes to the public justice system, Luther struggles to control the increased public attention. The killer is clearly on a mission and it is only a matter of time before he strikes again. The team struggle to predict who his next target might be with so many potential victims.\n\nLuther's investigation is interrupted by a distraught Mary. She has had a visit from Stark and Gray, whose dirty tricks seem to know no bounds. Mary doesn't know what to think or where to turn, but Luther can see that there's now fear in her eyes where there had been love. Can he convince Mary to trust him again before he is called to another crime scene? \n\nWhen the killer abducts a known paedophile, he invites the public to decide his victim's fate. Luther counter attacks with a similar publicity stunt, but when it doesn't go as planned Ripley and Luther find themselves thrown into the middle of an angry mob, baying for a public execution.",
+    "small": "Luther must confront his demons when a vigilante killer embarks on a crusade.",
+    "medium": "Crime drama series. Luther must confront his demons when a vigilante killer embarks on a crusade to punish past offenders. Meanwhile, the campaign against him knows no bounds."
+  },
+  "versions": [{
+    "hd": true,
+    "id": "p06p2d42",
+    "uhd": false,
+    "kind": "editorial",
+    "type": "version",
+    "events": [{
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+      },
+      {
+        "name": "ended",
+        "offset": 3431,
+        "system": "uas"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3169,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "dax"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3169,
+        "system": "dax"
+      }
+    ],
+    "download": true,
+    "duration": {
+      "text": "59 mins",
+      "value": "PT58M41.040S"
+    },
+    "guidance": {
+      "id": "D2V1",
+      "text": {
+        "large": "Contains some violent scenes and scenes which some viewers may find upsetting.",
+        "small": "Has guidance",
+        "medium": "Contains some violence and upsetting scenes."
+      }
+    },
+    "availability": {
+      "end": "2019-04-18T08:00:00Z",
+      "start": "2018-10-19T08:00:00Z",
+      "remaining": {
+        "text": "Available for 2 months"
+      }
+    },
+    "credits_start": 3518,
+    "first_broadcast": "16 Jul 2013",
+    "first_broadcast_date_time": "2013-07-16T00:00:00.000Z"
+  }],
+  "parent_id": "p01b2b2g",
+  "tleo_type": "brand",
+  "categories": [
+    "drama-and-soaps",
+    "drama-crime"
+  ],
+  "has_credits": true,
+  "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+    },
+    "ident_id": "p06g87jc",
+    "attribution": "bbc_one"
+  },
+  "release_date": "16 Jul 2013",
+  "related_links": [],
+  "original_title": "Episode 3",
+  "programme_type": "narrative",
+  "audio_described": false,
+  "parent_position": 3,
+  "requires_sign_in": true,
+  "release_date_time": "2013-07-16T00:00:00.000Z",
+  "lexical_sort_letter": "L",
+  "requires_tv_licence": true,
+  "numeric_tleo_position": 16
+},
+{
+  "id": "b037lc89",
+  "state": "watched",
+  "live": false,
+  "type": "episode",
+  "title": "Luther",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p64t2.jpg"
+  },
+  "labels": {
+    "category": "Crime Drama"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "b00vk2lp",
+  "guidance": true,
+  "slice_id": "p01b2b2g",
+  "subtitle": "Series 3: Episode 4",
+  "synopses": {
+    "large": "Marwood makes his vendetta personal - targeting Luther and those closest to him, raining destruction on everything he touches. Stark and Gray arrive just in time to hurry Mary to a secret place, but is her safety really Stark's priority, or is she just a pawn in his game to lure Luther to him?\n\nLuther, bereft of friends and support, is left broken when he is accused of crimes he hasn't committed. But just as his situation seems hopeless, help arrives in the form of an unexpected ally. How can he stop Marwood becoming a public martyr, when he himself is on the run, forced to work outside the law?\n\nLuther realises that Marwood's desire to avenge his wife won't be satisfied by punishing past offenders in this vigilante campaign - he also wants to punish his wife's murderer. Luther's private investigation leads him to discover that Marwood has kidnapped an innocent woman as leverage against the man who killed his wife. \n\nLuther confronts Marwood, with disastrous consequences. Marwood, feeling that his control has slipped, becomes more unpredictable and dangerous. He wants Luther to suffer the way he has suffered. Suddenly Luther faces losing all that he holds dear, and is forced to make an impossible choice.",
+    "small": "Luther must work outside the law to stop the vigilante killer from becoming a martyr.",
+    "medium": "Crime drama series. Accused of crimes he has not committed, Luther must work quickly to clear his name and stop the vigilante killer from becoming a martyr."
+  },
+  "versions": [{
+    "hd": true,
+    "id": "b037lc7r",
+    "uhd": false,
+    "kind": "original",
+    "type": "version",
+    "events": [{
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+      },
+      {
+        "name": "ended",
+        "offset": 3424,
+        "system": "uas"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3163,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "dax"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3163,
+        "system": "dax"
+      }
+    ],
+    "download": true,
+    "duration": {
+      "text": "59 mins",
+      "value": "PT58M34.040S"
+    },
+    "guidance": {
+      "id": "V1",
+      "text": {
+        "large": "Contains some violent scenes.",
+        "small": "Has guidance",
+        "medium": "Contains some violence."
+      }
+    },
+    "availability": {
+      "end": "2019-04-18T08:00:00Z",
+      "start": "2018-10-19T08:00:00Z",
+      "remaining": {
+        "text": "Available for 2 months"
+      }
+    },
+    "credits_start": 3511,
+    "first_broadcast": "9pm 23 Jul 2013",
+    "first_broadcast_date_time": "2013-07-23T20:00:00.000Z"
+  }],
+  "parent_id": "p01b2b2g",
+  "tleo_type": "brand",
+  "categories": [
+    "drama-and-soaps",
+    "drama-crime"
+  ],
+  "has_credits": true,
+  "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+    },
+    "ident_id": "p06g87jc",
+    "attribution": "bbc_one"
+  },
+  "release_date": "23 Jul 2013",
+  "related_links": [],
+  "original_title": "Episode 4",
+  "programme_type": "narrative",
+  "audio_described": false,
+  "parent_position": 4,
+  "requires_sign_in": true,
+  "release_date_time": "2013-07-23T00:00:00.000Z",
+  "lexical_sort_letter": "L",
+  "requires_tv_licence": true,
+  "numeric_tleo_position": 17
+}]

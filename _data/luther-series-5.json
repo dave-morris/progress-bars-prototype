@@ -1,0 +1,721 @@
+[{
+  "id": "b0bxbh6p",
+  "state": "default",
+  "live": false,
+  "type": "episode",
+  "title": "Luther",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06w6ffv.jpg"
+  },
+  "labels": {
+    "category": "Crime Drama"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "b00vk2lp",
+  "guidance": true,
+  "slice_id": "b0bxbh80",
+  "subtitle": "Series 5: Episode 1",
+  "synopses": {
+    "large": "A new spate of nightmarish murders brings DCI John Luther to once again face the depths of human depravity on the streets of London. As the body count rises, and gangster George Cornelius applies his own pressure, can Luther catch the killer and save his own neck?",
+    "small": "Luther returns to hunt a seemingly faceless killer stalking the streets of London.",
+    "medium": "Crime drama. A new spate of murders brings DCI John Luther to once again face the depths of human depravity on the streets of London, while dealing with trouble of his own making.",
+    "editorial": "A spate of nightmarish murders means Luther must face the depths of human depravity.",
+    "programme_small": "Idris Elba stars as DCI John Luther, waging his own passionate and ruthless war on crime."
+  },
+  "versions": [{
+      "hd": true,
+      "id": "b0bxbh5w",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3362,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3107,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3107,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "58 mins",
+        "value": "PT57M31.880S"
+      },
+      "guidance": {
+        "id": "D2",
+        "text": {
+          "large": "Contains scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2020-07-05T22:00:00Z",
+        "start": "2019-01-02T11:14:27Z",
+        "remaining": {
+          "text": "Available for over a year"
+        }
+      },
+      "credits_start": 3438,
+      "first_broadcast": "9pm 1 Jan 2019",
+      "first_broadcast_date_time": "2019-01-01T21:00:00.000Z"
+    },
+    {
+      "hd": false,
+      "id": "p06wxjgk",
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3362,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3107,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3107,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "58 mins",
+        "value": "PT57M31.880S"
+      },
+      "guidance": {
+        "id": "D2",
+        "text": {
+          "large": "Contains scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2020-07-05T22:00:00Z",
+        "start": "2019-01-02T11:24:57Z",
+        "remaining": {
+          "text": "Available for over a year"
+        }
+      },
+      "first_broadcast": "1 Jan 2019",
+      "first_broadcast_date_time": "2019-01-01T00:00:00.000Z"
+    }
+  ],
+  "parent_id": "b0bxbh80",
+  "tleo_type": "brand",
+  "categories": [
+    "audio-described",
+    "drama-and-soaps",
+    "drama-crime"
+  ],
+  "has_credits": true,
+  "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+    },
+    "ident_id": "p06g87jc",
+    "attribution": "bbc_one"
+  },
+  "release_date": "1 Jan 2019",
+  "related_links": [{
+    "id": "p06xhrpq",
+    "url": "http://www.bbc.co.uk/blogs/writersroom/entries/addf7c51-3935-4cd0-b4c3-216d84224e20",
+    "kind": "priority_content",
+    "type": "link",
+    "title": "BBC Writersroom: Neil Cross on writing Luther"
+  }],
+  "original_title": "Episode 1",
+  "programme_type": "narrative",
+  "audio_described": true,
+  "editorial_title": "Luther: Series 5",
+  "parent_position": 1,
+  "requires_sign_in": true,
+  "release_date_time": "2019-01-01T00:00:00.000Z",
+  "editorial_subtitle": "Box Set. Who can Luther save - and who will he lose?",
+  "lexical_sort_letter": "L",
+  "requires_tv_licence": true,
+  "numeric_tleo_position": 22
+},
+{
+  "id": "b0bxbj27",
+  "state": "default",
+  "live": false,
+  "type": "episode",
+  "title": "Luther",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06w2q70.jpg"
+  },
+  "labels": {
+    "category": "Crime Drama"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "b00vk2lp",
+  "guidance": true,
+  "slice_id": "b0bxbh80",
+  "subtitle": "Series 5: Episode 2",
+  "synopses": {
+    "large": "Luther must confront a demon from his past, as both the police and Cornelius converge on his home. With Halliday convinced that the body in the morgue isn't their killer, can Luther put his own troubles to one side and find the true murderer before he strikes again?",
+    "small": "As Luther faces demons from his past, Halliday gets closer to the truth behind the killer.",
+    "medium": "Luther must confront a demon from his past, as both the police and Cornelius converge on his home. Halliday is convinced that the body in the morgue isn't their killer.",
+    "editorial": "Halliday gets closer to the truth behind the killer. Can they stop them striking again?"
+  },
+  "versions": [{
+      "hd": true,
+      "id": "b0bxbj18",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3272,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3026,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3026,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "56 mins",
+        "value": "PT56M2.240S"
+      },
+      "guidance": {
+        "id": "D2L1",
+        "text": {
+          "large": "Contains some strong language and scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language and upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2020-07-05T22:00:00Z",
+        "start": "2019-01-02T22:00:00Z",
+        "remaining": {
+          "text": "Available for over a year"
+        }
+      },
+      "credits_start": 3360,
+      "first_broadcast": "9pm 2 Jan 2019",
+      "first_broadcast_date_time": "2019-01-02T21:00:00.000Z"
+    },
+    {
+      "hd": false,
+      "id": "p06x0tkg",
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3272,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3026,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3026,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "56 mins",
+        "value": "PT56M2.240S"
+      },
+      "guidance": {
+        "id": "D2L1",
+        "text": {
+          "large": "Contains some strong language and scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language and upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2020-07-05T22:00:00Z",
+        "start": "2019-01-02T22:00:00Z",
+        "remaining": {
+          "text": "Available for over a year"
+        }
+      },
+      "first_broadcast": "2 Jan 2019",
+      "first_broadcast_date_time": "2019-01-02T00:00:00.000Z"
+    }
+  ],
+  "parent_id": "b0bxbh80",
+  "tleo_type": "brand",
+  "categories": [
+    "audio-described",
+    "drama-and-soaps",
+    "drama-crime"
+  ],
+  "has_credits": true,
+  "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+    },
+    "ident_id": "p06g87jc",
+    "attribution": "bbc_one"
+  },
+  "release_date": "2 Jan 2019",
+  "related_links": [],
+  "original_title": "Episode 2",
+  "programme_type": "narrative",
+  "audio_described": true,
+  "parent_position": 2,
+  "requires_sign_in": true,
+  "release_date_time": "2019-01-02T00:00:00.000Z",
+  "editorial_subtitle": "2/4 Luther must confront demons from his past",
+  "lexical_sort_letter": "L",
+  "requires_tv_licence": true,
+  "numeric_tleo_position": 23
+},
+{
+  "id": "b0bxbjwh",
+  "state": "default",
+  "live": false,
+  "type": "episode",
+  "title": "Luther",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06w2q7m.jpg"
+  },
+  "labels": {
+    "category": "Crime Drama"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "b00vk2lp",
+  "guidance": true,
+  "slice_id": "b0bxbh80",
+  "subtitle": "Series 5: Episode 3",
+  "synopses": {
+    "large": "With his friend in peril and a young woman kidnapped by the relentless serial killer, can Luther protect the innocent while preventing Cornelius's violent revenge from consuming him? Who is Luther willing to save, and who can't he bear to lose?",
+    "small": "Can Luther protect the innocent while preventing Cornelius's revenge from consuming him?",
+    "medium": "With his friend in peril and a woman kidnapped by the serial killer, can Luther protect the innocent while preventing Cornelius's violent revenge from consuming him?",
+    "editorial": "Can Luther protect the innocent while preventing Cornelius's revenge consuming him?"
+  },
+  "versions": [{
+      "hd": true,
+      "id": "b0bxbjrf",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3425,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3164,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3164,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT58M35.400S"
+      },
+      "guidance": {
+        "id": "D1L1V1",
+        "text": {
+          "large": "Contains some strong language, some violent scenes and some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language, some violence and some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2020-07-05T22:05:00Z",
+        "start": "2019-01-03T22:05:00Z",
+        "remaining": {
+          "text": "Available for over a year"
+        }
+      },
+      "credits_start": 3514,
+      "first_broadcast": "9:05pm 3 Jan 2019",
+      "first_broadcast_date_time": "2019-01-03T21:05:00.000Z"
+    },
+    {
+      "hd": false,
+      "id": "p06x3yyc",
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3425,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3164,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3164,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT58M35.400S"
+      },
+      "guidance": {
+        "id": "D1L1V1",
+        "text": {
+          "large": "Contains some strong language, some violent scenes and some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language, some violence and some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2020-07-05T22:05:00Z",
+        "start": "2019-01-03T22:05:00Z",
+        "remaining": {
+          "text": "Available for over a year"
+        }
+      },
+      "first_broadcast": "3 Jan 2019",
+      "first_broadcast_date_time": "2019-01-03T00:00:00.000Z"
+    }
+  ],
+  "parent_id": "b0bxbh80",
+  "tleo_type": "brand",
+  "categories": [
+    "audio-described",
+    "drama-and-soaps",
+    "drama-crime"
+  ],
+  "has_credits": true,
+  "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+    },
+    "ident_id": "p06g87jc",
+    "attribution": "bbc_one"
+  },
+  "release_date": "3 Jan 2019",
+  "related_links": [],
+  "original_title": "Episode 3",
+  "programme_type": "narrative",
+  "audio_described": true,
+  "parent_position": 3,
+  "requires_sign_in": true,
+  "release_date_time": "2019-01-03T00:00:00.000Z",
+  "editorial_subtitle": "3/4 Who can Luther save – who will he lose?",
+  "lexical_sort_letter": "L",
+  "requires_tv_licence": true,
+  "numeric_tleo_position": 24
+},
+{
+  "id": "b0bxbkxc",
+  "state": "default",
+  "live": false,
+  "type": "episode",
+  "title": "Luther",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06w2q83.jpg"
+  },
+  "labels": {
+    "category": "Crime Drama"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "b00vk2lp",
+  "guidance": true,
+  "slice_id": "b0bxbh80",
+  "subtitle": "Series 5: Episode 4",
+  "synopses": {
+    "large": "Reeling from the death of his friend, Luther races to save the others from Cornelius's terrible retribution. With Luther's increasing absence from the case, Halliday heads the hunt for a killer on the loose - a killer determined to complete his final macabre masterpiece.",
+    "small": "Luther can no longer keep his troubles out of the case, as a macabre masterpiece unfolds.",
+    "medium": "With Luther's increasing absence from the case, Halliday heads the hunt for a killer on the loose - a killer determined to complete his final macabre masterpiece.",
+    "editorial": "With Luther's increasing absence from the case, Halliday heads the hunt."
+  },
+  "versions": [{
+      "hd": true,
+      "id": "b0bxbkwj",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3355,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3101,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3101,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT57M25.480S"
+      },
+      "guidance": {
+        "id": "D3V1",
+        "text": {
+          "large": "Contains some violent scenes and scenes which some viewers may find disturbing.",
+          "small": "Has guidance",
+          "medium": "Contains some violence and disturbing scenes."
+        }
+      },
+      "availability": {
+        "end": "2020-07-05T22:00:00Z",
+        "start": "2019-01-04T22:00:00Z",
+        "remaining": {
+          "text": "Available for over a year"
+        }
+      },
+      "credits_start": 3418,
+      "first_broadcast": "9pm 4 Jan 2019",
+      "first_broadcast_date_time": "2019-01-04T21:00:00.000Z"
+    },
+    {
+      "hd": false,
+      "id": "p06x5c77",
+      "uhd": false,
+      "kind": "audio-described",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3355,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3101,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3101,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT57M25.480S"
+      },
+      "guidance": {
+        "id": "D3V1",
+        "text": {
+          "large": "Contains some violent scenes and scenes which some viewers may find disturbing.",
+          "small": "Has guidance",
+          "medium": "Contains some violence and disturbing scenes."
+        }
+      },
+      "availability": {
+        "end": "2020-07-05T22:00:00Z",
+        "start": "2019-01-04T22:00:00Z",
+        "remaining": {
+          "text": "Available for over a year"
+        }
+      },
+      "first_broadcast": "4 Jan 2019",
+      "first_broadcast_date_time": "2019-01-04T00:00:00.000Z"
+    }
+  ],
+  "parent_id": "b0bxbh80",
+  "tleo_type": "brand",
+  "categories": [
+    "audio-described",
+    "drama-and-soaps",
+    "drama-crime"
+  ],
+  "has_credits": true,
+  "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+    },
+    "ident_id": "p06g87jc",
+    "attribution": "bbc_one"
+  },
+  "release_date": "4 Jan 2019",
+  "related_links": [],
+  "original_title": "Episode 4",
+  "programme_type": "narrative",
+  "audio_described": true,
+  "parent_position": 4,
+  "requires_sign_in": true,
+  "release_date_time": "2019-01-04T00:00:00.000Z",
+  "editorial_subtitle": "4/4 Can the killer complete his macabre masterpiece?",
+  "lexical_sort_letter": "L",
+  "requires_tv_licence": true,
+  "numeric_tleo_position": 25
+}
+]

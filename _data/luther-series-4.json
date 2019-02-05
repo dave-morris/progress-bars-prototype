@@ -1,0 +1,239 @@
+[{
+  "id": "b06sq4jx",
+  "state": "watched",
+  "live": false,
+  "type": "episode",
+  "title": "Luther",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p06p559d.jpg"
+  },
+  "labels": {
+    "category": "Crime Drama"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "b00vk2lp",
+  "guidance": true,
+  "slice_id": "b06srp3h",
+  "subtitle": "Series 4: Episode 1",
+  "synopses": {
+    "large": "On a leave of absence from the police force, Luther is laying low in a rundown cottage on the edge of England. But a visit from his old colleagues at the Met brings a shocking piece of news that draws him back to London in search of the truth.\n\nMeanwhile, a gruesome serial killer has struck the city, eating body parts as he goes. With a trail of clues leading from one crime scene to the next, Schenk and his team must work out the twisted logic that connects each victim. But this murdering mastermind is more than a match for the police, outsmarting them at every step. It's not long before Luther is back in the bullpen, determined to steal a march on the killer before another mutilated body joins the mounting pile.",
+    "small": "Luther is pulled back to duty to investigate the crimes of a gruesome killer.",
+    "medium": "Crime drama series. Luther is pulled away from his coastal hideaway to investigate the crimes of a cannibal killer who is roaming London's streets.",
+    "editorial": "Haunted by the ghosts of his past, Luther’s drawn into a terrifyingly complex case.",
+    "programme_small": "Idris Elba stars as DCI John Luther, waging his own passionate and ruthless war on crime."
+  },
+  "versions": [{
+    "hd": true,
+    "id": "b06sq4j8",
+    "uhd": false,
+    "kind": "original",
+    "type": "version",
+    "events": [{
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+      },
+      {
+        "name": "ended",
+        "offset": 3412,
+        "system": "uas"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3152,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "dax"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3152,
+        "system": "dax"
+      }
+    ],
+    "download": true,
+    "duration": {
+      "text": "58 mins",
+      "value": "PT58M22.280S"
+    },
+    "guidance": {
+      "id": "D1L1",
+      "text": {
+        "large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+        "small": "Has guidance",
+        "medium": "Contains some strong language and some upsetting scenes."
+      }
+    },
+    "availability": {
+      "end": "2019-04-18T08:00:00Z",
+      "start": "2018-10-19T08:00:00Z",
+      "remaining": {
+        "text": "Available for 2 months"
+      }
+    },
+    "credits_start": 3452,
+    "first_broadcast": "9pm 15 Dec 2015",
+    "first_broadcast_date_time": "2015-12-15T21:00:00.000Z"
+  }],
+  "parent_id": "b06srp3h",
+  "tleo_type": "brand",
+  "categories": [
+    "drama-and-soaps",
+    "drama-crime"
+  ],
+  "has_credits": true,
+  "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+    },
+    "ident_id": "p06g87jc",
+    "attribution": "bbc_one"
+  },
+  "release_date": "15 Dec 2015",
+  "related_links": [{
+    "id": "p03c0km5",
+    "url": "http://www.bbc.co.uk/programmes/profiles/4hlbwnHlDYvRWcrsqkggZZX/characters",
+    "kind": "priority_content",
+    "type": "link",
+    "title": "Meet the characters"
+  }],
+  "original_title": "Episode 1",
+  "programme_type": "narrative",
+  "audio_described": false,
+  "editorial_title": "Luther: Series 4",
+  "parent_position": 1,
+  "requires_sign_in": true,
+  "release_date_time": "2015-12-15T00:00:00.000Z",
+  "editorial_subtitle": "Box Set. Luther faces his most chilling adversary yet",
+  "lexical_sort_letter": "L",
+  "requires_tv_licence": true,
+  "numeric_tleo_position": 19
+},
+{
+  "id": "b06tl4n7",
+  "state": "resume",
+  "live": false,
+  "type": "episode",
+  "title": "Luther",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/832x468/p03bpxy1.jpg"
+  },
+  "labels": {
+    "category": "Crime Drama"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "b00vk2lp",
+  "guidance": true,
+  "slice_id": "b06srp3h",
+  "subtitle": "Series 4: Episode 2",
+  "synopses": {
+    "large": "On the trail of a horrifying cannibalistic killer, Luther is dogged at every step by ghosts from his past. Isolated and on edge, it takes every fibre of Luther's being to keep it together. Can a cold case help unlock a mystery that's tormenting him to distraction?\n\nMeanwhile, the serial killer is still on the loose. Benny's hacking skills have revealed a list of hundreds of potential victims but, with a rapidly escalating number of crime scenes, Luther must use all his ingenuity to work out where the killer is headed next. Discovering it's all part of a macabre endgame, Luther is forced to put himself and his new colleague Emma into the heart of danger to try and stop the murdering madness.",
+    "small": "On the trail of a horrifying killer, Luther finds himself haunted by ghosts from his past.",
+    "medium": "Crime drama series. On the trail of a cannibalistic killer, Luther finds himself haunted by his past. Can a cold case help unlock a mystery that's tormenting him to distraction?"
+  },
+  "versions": [{
+    "hd": true,
+    "id": "p06p2dn4",
+    "uhd": false,
+    "kind": "editorial",
+    "type": "version",
+    "events": [{
+        "name": "started",
+        "offset": 30,
+        "system": "uas"
+      },
+      {
+        "name": "ended",
+        "offset": 3557,
+        "system": "uas"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3282,
+        "system": "optimizely"
+      },
+      {
+        "name": "iplxp-ep-started",
+        "offset": 30,
+        "system": "dax"
+      },
+      {
+        "name": "iplxp-ep-watched",
+        "offset": 3282,
+        "system": "dax"
+      }
+    ],
+    "download": true,
+    "duration": {
+      "text": "61 mins",
+      "value": "PT1H47.040S"
+    },
+    "guidance": {
+      "id": "D2",
+      "text": {
+        "large": "Contains scenes which some viewers may find upsetting.",
+        "small": "Has guidance",
+        "medium": "Contains upsetting scenes."
+      }
+    },
+    "availability": {
+      "end": "2019-04-18T08:00:00Z",
+      "start": "2018-10-19T08:00:00Z",
+      "remaining": {
+        "text": "Available for 2 months"
+      }
+    },
+    "credits_start": 3646,
+    "first_broadcast": "22 Dec 2015",
+    "first_broadcast_date_time": "2015-12-22T00:00:00.000Z"
+  }],
+  "parent_id": "b06srp3h",
+  "tleo_type": "brand",
+  "categories": [
+    "drama-and-soaps",
+    "drama-crime"
+  ],
+  "has_credits": true,
+  "master_brand": {
+    "id": "bbc_one",
+    "titles": {
+      "large": "BBC One",
+      "small": "BBC One",
+      "medium": "BBC One"
+    },
+    "ident_id": "p06g87jc",
+    "attribution": "bbc_one"
+  },
+  "release_date": "22 Dec 2015",
+  "related_links": [],
+  "original_title": "Episode 2",
+  "programme_type": "narrative",
+  "audio_described": false,
+  "parent_position": 2,
+  "requires_sign_in": true,
+  "release_date_time": "2015-12-22T00:00:00.000Z",
+  "lexical_sort_letter": "L",
+  "requires_tv_licence": true,
+  "numeric_tleo_position": 20
+}
+]
