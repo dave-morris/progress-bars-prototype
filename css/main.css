@@ -238,7 +238,7 @@
 
 /* Comment out code below to change progress bar styles */
 
-/* .progress-bar {
+.progress-bar {
   background-color: rgba(235, 235, 235, 0.4);
 }
 
@@ -252,4 +252,4 @@
 
 .focus .progress-bar__progress {
   background-color: rgba(235, 73, 151, 1);
-} */
+}
