@@ -6,6 +6,7 @@ $(document).ready(function() {
 
   var pageToDisplay = 1;
   var initialMove = 420;
+  var toggleMove = initialMove + 500;
 
   function focusShiftHorizontal() {
     total = $('.active .selectable').length;
@@ -18,11 +19,21 @@ $(document).ready(function() {
 
     $('.grid').hide();
 
-    if (pageToDisplay == 1) {$('#page1').show();}
-    if (pageToDisplay == 2) {$('#page2').show();}
-    if (pageToDisplay == 3) {$('#page3').show();}
-    if (pageToDisplay == 4) {$('#page4').show();}
-    if (pageToDisplay == 5) {$('#page5').show();}
+    if (pageToDisplay == 1) {
+      $('#page1').show();
+    }
+    if (pageToDisplay == 2) {
+      $('#page2').show();
+    }
+    if (pageToDisplay == 3) {
+      $('#page3').show();
+    }
+    if (pageToDisplay == 4) {
+      $('#page4').show();
+    }
+    if (pageToDisplay == 5) {
+      $('#page5').show();
+    }
 
   }
 
@@ -42,18 +53,18 @@ $(document).ready(function() {
     focusShiftHorizontal();
 
     if (current > 1) {
-        if ($('.series-pagination').hasClass('active')) {
+      if ($('.series-pagination').hasClass('active')) {
 
-          $('.focus').removeClass('focus').prev().addClass('focus');
-          displayCorrectPage();
+        $('.focus').removeClass('focus').prev().addClass('focus');
+        displayCorrectPage();
 
-        } else if ($('.grid').hasClass('active')) {
+      } else if ($('.grid').hasClass('active')) {
 
-            $('.focus').removeClass('focus').prev().addClass('focus');
+        $('.focus').removeClass('focus').prev().addClass('focus');
 
-        }
       }
     }
+  }
 
   function moveRight() {
 
@@ -65,7 +76,7 @@ $(document).ready(function() {
         displayCorrectPage();
       } else if ($('.grid').hasClass('active')) {
 
-          $('.focus').removeClass('focus').next().addClass('focus');
+        $('.focus').removeClass('focus').next().addClass('focus');
 
       }
 
@@ -93,12 +104,20 @@ $(document).ready(function() {
         focusShiftHorizontal();
 
         if (current > 4) {
-
           $('.focus').removeClass('focus').prev().prev().prev().prev().addClass('focus');
-
         }
 
       }
+
+    } else if ($('.toggle-wrapper').hasClass('active')) {
+
+      console.log("Toggleelelelel");
+
+      $('.toggle-wrapper').removeClass('active');
+      $('.grid.lastActive').removeClass('lastActive').addClass('active');
+      $('.toggle').removeClass('focus');
+      $('.vertical-wrapper').css('transform', 'translateY(' + (-initialMove) + 'px)');
+      returnFocus();
 
     }
 
@@ -140,9 +159,9 @@ $(document).ready(function() {
         $('#page5').addClass('active');
       }
 
-        $('.vertical-wrapper').css('transform', 'translateY(' + (-initialMove) + 'px)');
+      $('.vertical-wrapper').css('transform', 'translateY(' + (-initialMove) + 'px)');
 
-        returnFocus();
+      returnFocus();
 
     } else if ($('.grid').hasClass('active')) {
 
@@ -152,13 +171,31 @@ $(document).ready(function() {
 
         $('.focus').removeClass('focus').next().next().next().next().addClass('focus');
 
-      }
+      } else if (current == total) {
 
+        console.log("moving focus to toggle");
+        $('.active').removeClass('active').addClass('lastActive');
+        $('.focus').removeClass('focus').addClass('lastFocus');
+        $('.toggle-wrapper').addClass('active');
+
+        returnFocus();
+
+        $('.vertical-wrapper').css('transform', 'translateY(' + (-toggleMove) + 'px)');
+
+      }
     }
   }
 
   function pressEnter() {
-    console.log("Enter");
+    if ($('.toggle').hasClass('focus')) {
+
+      $('.progress-bar').toggleClass('v2');
+      $('.progress-bar__progress').toggleClass('v2');
+      $('.focus .progress-bar').toggleClass('v2');
+      $('.focus .progress-bar__progress').toggleClass('v2');
+
+
+    }
   }
 
   function goBack() {

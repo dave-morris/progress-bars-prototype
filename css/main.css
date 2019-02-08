@@ -188,6 +188,19 @@
   background-size: cover;
 }
 
+.toggle-wrapper {
+  margin: 500px 0 20px 0;
+  padding: 0 82px;
+}
+
+.toggle {
+  background-color: #1D1C2E;
+  color: #B2B7C4;
+  display: inline-block;
+  margin-right: 12px;
+  padding: 16px 24px;
+}
+
 /* Focus states */
 .pagination-button.focus {
   background: #282635;
@@ -236,20 +249,25 @@
   display: block;
 }
 
+.focus.toggle {
+  background-color: firebrick;
+  color: white;
+}
+
 /* Comment out code below to change progress bar styles */
 
-.progress-bar {
+.progress-bar.v2 {
   background-color: rgba(235, 235, 235, 0.4);
 }
 
-.progress-bar__progress {
+.progress-bar__progress.v2 {
   background-color: rgba(207, 62, 128, 1);
 }
 
-.focus .progress-bar {
+.focus .progress-bar.v2 {
   background-color: rgba(235, 235, 235, 1);
 }
 
-.focus .progress-bar__progress {
+.focus .progress-bar__progress.v2 {
   background-color: rgba(235, 73, 151, 1);
 }
